@@ -28,7 +28,6 @@ header {visibility: hidden;}
     color: white;
 }
 
-/* SIDEBAR TEXT */
 [data-testid="stSidebar"] * {
     color: white !important;
 }
